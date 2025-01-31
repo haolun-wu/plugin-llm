@@ -1,4 +1,4 @@
-# Model Evaluation and Cross-Validation Scripts
+# Code for paper: Logits are All We Need to Adapt Closed Models
 
 This repository contains shell scripts for setting up, evaluating, and performing cross-validation on different models. These scripts help automate the process of training, testing, and comparing various models efficiently.
 
