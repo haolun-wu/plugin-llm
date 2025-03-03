@@ -33,7 +33,7 @@ bash plugin_model_cross_validation.sh
 ```
 
 ### 5. `evaluate_models.sh`
-Runs model evaluation on pre-trained or newly trained models. This script is useful for testing models on a dataset and generating performance metrics. It will call the [src/evaluate_models.py](src/evaluate_models.py) script to evaluate the model.
+Runs model evaluation on pre-trained or newly trained models. This script is useful for testing models on a dataset and generating performance metrics. It will call the [`src/evaluate_models.py`](src/evaluate_models.py) script to evaluate the model.
 ```sh
 bash evaluate_models.sh
 ```
